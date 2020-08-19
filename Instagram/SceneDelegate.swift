@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Instagram
 //
-//  Created by 齋藤　綾乃 on 2020/08/19.
+//  Created by ayano-s on 2020/08/19.
 //  Copyright © 2020 ayano-s. All rights reserved.
 //
 
