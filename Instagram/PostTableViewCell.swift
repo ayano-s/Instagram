@@ -64,7 +64,7 @@ class PostTableViewCell: UITableViewCell {
         }
         
         //コメントの表示
-        if postData.comment != [] {
+        if postData.comment.isEmpty == false {
             for comment in postData.comment {
                 self.commentLabel.text! += comment + "\n"
                 print("DEBUG_PRINT: \(commentLabel.text!)")
